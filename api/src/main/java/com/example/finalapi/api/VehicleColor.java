@@ -2,9 +2,14 @@ package com.example.finalapi.api;
 
 
 
+
+
 public enum VehicleColor {
     RED,
     WHITE,
     BLUE,
-    BLACK
+    BLACK,
+    GREEN,
+
 }
+
